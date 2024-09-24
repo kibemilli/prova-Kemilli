@@ -3,7 +3,7 @@ body {
  }
 
  p {
-   color: rgb(235, 224, 224);
+   color: .rgb(229, 240, 84);
  }
 
  h1 {
@@ -11,6 +11,6 @@ body {
  }
 
  .kibe {
-   color: rgb(83, 160, 238);
+   color: rgb(130, 193, 255);
    font-size: 20px;
  }
